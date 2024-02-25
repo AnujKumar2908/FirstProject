@@ -1,2 +1,2 @@
 # FirstProject
-First Project
+Coding Project
